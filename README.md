@@ -1,4 +1,4 @@
-# MODULE2: Linear Regression Analysis and Model Training
+# MODULE2: Image Convolution and Edge Detection using Sobel Operators
 
 This Jupyter Notebook explores **linear regression analysis** with an emphasis on **model training** and **evaluation**. It contains examples of using popular Python libraries to import, analyze, and visualize data while building a linear regression model.
 
